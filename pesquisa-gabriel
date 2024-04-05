@@ -4,8 +4,6 @@
 
 O *Git* é um sistema de controle de versões distribuído amplamente utilizado no desenvolvimento de software. Com o Git, os desenvolvedores podem manter o controle de suas alterações, colaborar com outros membros da equipe e gerenciar o histórico de um projeto de forma eficiente.
 
-![exemplogit](https://lh5.googleusercontent.com/GON_64dRForX0sHEEPo3Ftwzs2y3vm1vSRfM4fXms0NUshggh_BKIIiqm9yddHVtO_jkEnskIZJJGIu26BPh7zu4W1XQ3C1-DJlt3RhHa9ZKz3J2tmoCrBbgcvS48PdhD2auceGd)
-
 Exemplo de comando Git para clonar um repositório:
 
 '''bashgit clone https://github.com/seu-usuario/seu-repositorio.git'''
@@ -14,8 +12,6 @@ Exemplo de comando Git para clonar um repositório:
 ## Github
 
 *Github* é uma plataforma de hospedagem de repositórios Git na nuvem, amplamente utilizada pela comunidade de desenvolvedores. No Github, você pode compartilhar seu código, colaborar em projetos de código aberto e acompanhar as issues do seu projeto.
-
-![exemplogithub](https://i0.wp.com/user-images.githubusercontent.com/90000203/162800388-9c07b590-75c4-4a86-8042-6eddea94bb61.png?ssl=1)
 
 Exemplo de uso do Github para criar um novo repositório:
 
@@ -27,8 +23,6 @@ Exemplo de uso do Github para criar um novo repositório:
 ## Vscode
 
 O *Vscode* (Visual Studio Code) é um editor de código leve e altamente personalizável. Ele oferece uma ampla gama de extensões e recursos que facilitam o desenvolvimento de software, como realce de sintaxe, depuração integrada e integração nativa com o Git.
-
-![vscodeexemplo](https://user-images.githubusercontent.com/35271042/118224532-3842c400-b438-11eb-923d-a5f66fa6785a.png)
 
 Exemplo de uso do Vscode com o Git:
 
